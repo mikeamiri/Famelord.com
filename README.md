@@ -5,6 +5,7 @@
 I wanted to explore Netlify CMS & Tailwind CSS, ended up creating this boilerplate.
 
 So far we've got:
+ www.famelord.com
 
 - Blog w/ posts, including pagination.
 - Configurable manifest & global settings.
